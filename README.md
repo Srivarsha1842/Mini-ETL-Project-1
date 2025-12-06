@@ -2,13 +2,6 @@ Mini ETL Project — Python + SQLite + SQL
 
 This project demonstrates a simple ETL pipeline (Extract → Transform → Load) using Python, Pandas, and SQLite. It is designed as a beginner-friendly data engineering mini project.
 
-Project Structure
-employees.csv
-orders.csv
-etl_script.py
-employee_orders_final.csv
-company.db
-README.md
 
 Project Goal
 
