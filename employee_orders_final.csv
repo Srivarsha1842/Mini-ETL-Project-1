@@ -1,0 +1,5 @@
+employee_id,employee_name,age,city,salary,total_order_amount,age_group
+1,Ravi,28,Chennai,50000,3400,Young
+2,Anita,32,Bangalore,60000,450,Senior
+3,Kiran,29,Chennai,55000,800,Young
+5,Suresh,35,Bangalore,70000,1500,Senior
