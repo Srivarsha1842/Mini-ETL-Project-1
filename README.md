@@ -15,24 +15,11 @@ Load the processed data into SQLite
 
 Run SQL queries on the final table
 
+
 Dataset
 employees.csv
-
-employee_id, employee_name, age, city, salary
-1, Ravi, 28, Chennai, 50000
-2, Anita, 32, Bangalore, 60000
-3, Kiran, 29, Chennai, 55000
-4, Meera, 26, Hyderabad, 45000
-5, Suresh, 35, Bangalore, 70000
-
 orders.csv
 
-order_id, employee_id, order_date, amount
-101, 1, 2024-01-10, 1200
-102, 3, 2024-01-12, 800
-103, 2, 2024-01-15, 450
-104, 1, 2024-01-20, 2200
-105, 5, 2024-01-22, 1500
 
 ETL Pipeline Overview
 1. Extract
@@ -79,19 +66,7 @@ employee_orders_final.csv
 
 company.db (SQLite database)
 
-Skills Demonstrated
 
-Python ETL (Extract → Transform → Load)
-
-Pandas data manipulation
-
-SQLite database loading
-
-SQL querying
-
-Data aggregation & joining
-
-Building a portfolio-ready mini project
 
 How to Run
 
